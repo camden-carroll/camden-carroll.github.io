@@ -1,6 +1,6 @@
 ---
 title: "Mini Golf Putter"
-excerpt: "How I made a mini golf putter with nothing but a 3D printer and a fishing pole<br/><img src='/images/500x300.png'>"
+excerpt: "How I made a mini golf putter with nothing but a 3D printer, sand, and a fishing pole<br/><img src='/images/PutterHead.JPG'>"
 collection: portfolio
 ---
 
