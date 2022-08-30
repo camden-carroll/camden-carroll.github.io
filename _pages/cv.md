@@ -14,8 +14,9 @@ Education
 * B.S. in Mechancial Engineering, LeTourneau University (2022)
 * summa cum laude
 * Full [Resume](camden-carroll.github.io/files/resume)
-* Veiw [Portfolio](camden-carroll.github.io/portfolio)
 
 Resume Highlights
 =====
-  
+
+Porfolio Projects
+=====
