@@ -12,6 +12,6 @@ Once I had a putter head with the right shape, I took some sand from the volley 
 <br/><br/>
 <img src='/images/PutterHead1.jpg'>
 <br/><br/>
-The final prodkect workd pretty well and gave me some great entertainment!
+The final product worked pretty well and gave me some great entertainment!
 <br/><br/>
 <img src='/images/PutterWorking.jpg'>
