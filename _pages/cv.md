@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+View [Resume](https://camden-carroll.github.io/files/resume.pdf)
+=====
+
 Education
 ======
 * B.S. in Mechancial Engineering, LeTourneau University (2022)
 * summa cum laude
-* Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
-* View [Portfolio](https://camden-carroll.gitub.io/_portfolio)
 
 Resume Highlights
 =====
