@@ -22,6 +22,7 @@ Resume Highlights
 
 Projects
 =====
+View [Portfolio](https://camden-carroll.github.io/portfolio)
 <ul>{% for post in site.portfolio %} 
   {% include archive-single-cv.html %} 
 {% endfor %}
