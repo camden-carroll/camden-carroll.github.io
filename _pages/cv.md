@@ -22,6 +22,6 @@ Resume Highlights
 
 Projects
 =====
-<ul>{% for post in site.publications %} 
+<ul>{% for post in site.portfolio %} 
   {% include archive-single-cv.html %} 
 {% endfor %}
