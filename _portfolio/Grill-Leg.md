@@ -7,7 +7,7 @@ collection: portfolio
 Why: <br/>
 A part on my dad's grill broke. It was very uncommon and expensive to get for being a piece of plastic.<br/><br/>
 How: <br/>
-So I replicated the part in SolidWorks and printed with near maximum infill:
+I replicated the part in SolidWorks and printed with near maximum infill:
 <br/><img src='/images/GrillLeg2.jpg'><br/>
 Results:<br/>
 It is still working to this day.
