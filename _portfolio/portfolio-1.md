@@ -10,8 +10,8 @@ During quarentine lock down at college, I wanted to play mini golf in my room. O
 <br/>
 Once I had a putter head with the right shape, I took some sand from the volley ball courts and added it just before the printer started the top few layres, sealing it in. The final prodect felt pretty heavy.
 <br/>
-<img src='/images/PutterHead1.JPG'>
+<img src='/images/PutterHead1.jpg'>
 <br/>
 The final prodkect workd pretty well and gave me some great entertainment!
 <br/>
-<img src='/images/PutterWorking.JPG'>
+<img src='/images/PutterWorking.jpg'>
