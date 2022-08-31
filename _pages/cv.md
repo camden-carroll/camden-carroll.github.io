@@ -28,7 +28,7 @@ Highlights
 
 ## Project Expierenece
   * Team member on senior design project that launched a rocket with a drone inside designed to return home after being ejected.  [Senior Design Project](https://camden-carroll.github.io/portfolio/seniordesign)
-  * Individually designed and conducted expirement to determine the effects of different factors on a 3D printed drone arms. [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
+  * Individually designed and conducted an expirement to determine the effects of different factors on a 3D printed drone arm. [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
 
 ## View Full [Portfolio](https://camden-carroll.github.io/portfolio)
 
