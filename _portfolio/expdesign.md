@@ -28,9 +28,12 @@ collection: portfolio
 
 <img src='/images/MiniTabData.JPG'>
 
+#### Perfomring optimization on the data, the best result is a combination of PLA-Square-5, which was contrary to the supposed ABS-channel at the start for best treatment.
 
+<img src='/images/results.JPG'>
 
-View Full [Report](https://camden-carroll.github.io/files/CamdenCarroll_FinalReport.pdf)
+#### If you want to see the full report:
+* View Full [Report](https://camden-carroll.github.io/files/CamdenCarroll_FinalReport.pdf)
 
   
   
