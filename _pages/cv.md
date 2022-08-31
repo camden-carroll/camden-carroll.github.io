@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-View Full View [Resume](https://camden-carroll.github.io/files/resume.pdf)
+View [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
   
   
