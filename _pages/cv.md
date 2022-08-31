@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-View [Resume](https://camden-carroll.github.io/files/resume.pdf)
+
+View Full View [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
-<br/>
-Resume Highlights
+  
+  
+Highlights
 =====
 ## Education
 * B.S. in Mechancial Engineering, LeTourneau University (May 2022)
