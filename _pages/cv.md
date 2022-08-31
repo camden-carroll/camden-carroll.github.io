@@ -13,7 +13,7 @@ View [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
 
 Resume Highlights
-======
+=====
 Education
 * B.S. in Mechancial Engineering, LeTourneau University (2022)
 * summa cum laude
@@ -24,4 +24,4 @@ Project Expierenece
 * Individually designed and conducted expirement to determine the effects of different factors on a 3D printed drone arms. [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
 <br/>
 View Full [Portfolio](https://camden-carroll.github.io/portfolio)
-======
+=====
