@@ -23,7 +23,7 @@ In SolidWorks, I designed the lower unit while others designed the arms and uppe
  We then put all the parts in an assemnly to make sure it fit and worked as we wanted.
 
 <img src='/images/PayloadFullRender.JPG'>
-<img src='/images/FullAssemblyMotionColorHD.avi'>
+<img src='/images/FullAssemblyMotionColorHD.gif'>
 
 Parts were then printed out and assebmeled. The electronics subteam added the brains, wiring, and motors. Testing began and the homing fearture worked, just not with the range we needed. 
 
