@@ -1,6 +1,6 @@
 ---
-title: "Grill Leg"
-excerpt: "Making a custom part to fix my dad's grill. <br/><img src='/images/GrillLeg2.jpg'>"
+title: "Fixing My Dad's Grill"
+excerpt: "Using iterative expiremental methods to revive our family's grill. <br/><img src='/images/GrillLeg2.jpg'>"
 collection: portfolio
 ---
 
