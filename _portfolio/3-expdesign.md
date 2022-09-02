@@ -15,7 +15,7 @@ collection: portfolio
    * 3 layers
    * 5 layers
 
-#### I then desinged each part on SolidWorks using relevent ASTM standards, 5 in long, 0.5 in wide, and 0.25 in tall.
+#### I then desinged each part on SolidWorks using relevent ASTM standards I could find; 5 in long, 0.5 in wide, and 0.25 in tall.
 
 <img src='/images/ASTMDroneArmParts.JPG'>
 
