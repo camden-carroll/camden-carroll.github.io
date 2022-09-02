@@ -1,6 +1,6 @@
 ---
 title: "Personal Quarantine Mini Golf Putter"
-excerpt: "How I made a mini golf putter with nothing but a 3D printer, sand, and a fishing pole.<br/><img src='/images/PutterHead.JPG'>"
+excerpt: "How I made a mini golf putter with nothing but a 3D printer, sand, and a fishing pole.<br/><img src='/images/PutterWorking.jpg'>"
 collection: portfolio
 ---
 
