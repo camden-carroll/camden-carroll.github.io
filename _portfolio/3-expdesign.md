@@ -1,6 +1,6 @@
 ---
 title: "Testing Strength vs. Geometry of 3D Printed Drone Arms"
-excerpt: "Class project to determine the best cross sectional geometry of drone arms for best strenth to weight ratio.' drone. <br/><img src='/images/ASTMDroneArmParts.JPG'>"
+excerpt: "Using factorial expirement design and ANOVA analyzation on theoretical drone arms.' drone. <br/><img src='/images/ASTMDroneArmParts.JPG'>"
 collection: portfolio
 ---
 
