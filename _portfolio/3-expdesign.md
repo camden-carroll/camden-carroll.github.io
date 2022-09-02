@@ -32,8 +32,7 @@ collection: portfolio
 
 <img src='/images/results.JPG'>
 
-#### If you want to see the full report:
-* View Full [Report](https://camden-carroll.github.io/files/CamdenCarroll_FinalReport.pdf)
+#### If you want to see the full [REPORT](https://camden-carroll.github.io/files/CamdenCarroll_FinalReport.pdf)
 
   
   
