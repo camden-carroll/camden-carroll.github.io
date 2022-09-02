@@ -1,6 +1,6 @@
 ---
 title: "Testing Strength vs. Geometry of 3D Printed Drone Arms"
-excerpt: "Using factorial expirement design and ANOVA analyzation on theoretical drone arms.' drone. <br/><img src='/images/ASTMDroneArmParts.JPG'>"
+excerpt: "Using factorial expirement design and ANOVA analyzation on theoretical drone arms.<br/><img src='/images/ASTMDroneArmParts.JPG'>"
 collection: portfolio
 ---
 
