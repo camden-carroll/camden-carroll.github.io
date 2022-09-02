@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+View [Resume](https://camden-carroll)
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 
 Love of the Game (About Me)
 =====
