@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-View [Resume](https://camden-carroll.github.io/files/resume.pdf)
+Download Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
   
   
-Highlights
+Resume Highlights
 =====
 ## Education
 * B.S. in Mechancial Engineering, LeTourneau University (May 2022)
@@ -26,13 +26,13 @@ Highlights
 * Applied Aerodynamics 
 * Design of Expirements
 
-## Project Expierenece
+## Project Experience
   * Team member on senior design project that launched a rocket with a drone inside designed to return home after being ejected.  [Senior Design Project](https://camden-carroll.github.io/portfolio/seniordesign)
   * Individually designed and conducted an expirement to determine the effects of different factors on a 3D printed drone arm. [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
 
 ## View Full [Portfolio](https://camden-carroll.github.io/portfolio)
 
-## Work Expirence
+## Work Experience
 * Intern for Trinity River Authority
    * In charge of plant organization, parts and tool inventory, and logging information on IBM Maximo
 * Intramural Coordinator
