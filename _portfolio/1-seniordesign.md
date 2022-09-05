@@ -1,5 +1,5 @@
 ---
-title: "Rocket Deployed Drone - Senior Design Project"
+title: "Rocket Deployed Drone - Senior Design Team Project"
 excerpt: "My senior year class project to design a folding drone, put it inside and rocket, and send it to 8000 ft. <br/><img src='/images/PayloadFullRender.JPG'>"
 collection: portfolio
 ---
