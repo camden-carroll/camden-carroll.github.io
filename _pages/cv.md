@@ -21,7 +21,7 @@ Education
 * summa cum laude
 
 ### Relevent Classes: 
-|  |  |  |
+| jhjh | hghgh | jhjh |
 |:--------:             |:--------:              |:--------:       |
 | Applied Aerodynamics  | Senior Design I&II     | Machine Design  |
 | Compressable Flow     | Vibrations             | Fluid Mechanics |
