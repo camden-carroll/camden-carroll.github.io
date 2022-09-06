@@ -20,6 +20,8 @@ Education
 * 3.86/4.00 GPA
 * summa cum laude
 
+<br/>
+
 ### Relevent Classes: 
 
 <br/>
