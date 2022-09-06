@@ -59,7 +59,7 @@ Experience
 
 |Certifications:    |
 |:--------          |
-|SolidWorks Associate – Mechanical Design, LeTourneau University, ID: C-RE8UNFGYQM – May 2022|
+|SolidWorks Associate – Mechanical Design, LeTourneau University, ID: C-RE8UNFGYQM – May 2022 |
 
 
  <br/>
