@@ -14,17 +14,18 @@ Download Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
   <br/>
   
-Resume Highlights
+Education
 =====
-## Education
 * B.S. in Mechancial Engineering, LeTourneau University (May 2022)
 * 3.85/4.00 GPA
 * summa cum laude
 
-## Relevent Classes: 
-* Compressable flow 
-* Applied Aerodynamics 
-* Design of Expirements
+### Relevent Classes: 
+|  |  |  |
+|:--------:             |:--------:              |:--------:       |
+| Applied Aerodynamics  | Senior Design I&II     | Machine Design  |
+| Compressable Flow     | Vibrations             | Fluid Mechanics |
+| Design of Experiments | Engineering Management | Heat Transfer   |
 
 Experience
 =====
@@ -44,7 +45,28 @@ Experience
 ### Student Worker (LeTourneau University, 2019 – 2022)
 * Lead team in constructing and maintain fields and courts for each sport
 * Communicated rules and expectations to teams and delt with conflict during games
-### View Full [Portfolio](https://camden-carroll.github.io/portfolio)
+
+<br/>
+
+### View Full [Portfolio](https://camden-carroll.github.io/portfolio) of Projects
+
+<br/>
+
+|Certifications:    |
+|:--------          |
+|SolidWorks Associate – Mechanical Design, LeTourneau University, ID: C-RE8UNFGYQM – May 2022|
 
 
+ <br/>
+ 
+| Skills | |                                               | Some Knowledge of |
+|:--------:        |:--------:   |:--------:               |:--------:         |
+| Welding          | SolidWorks  | GD&T Methods            | C++               |
+| Lathing          |  MATLAB     | Finite Element Analysis |JAVA               |
+| Microsoft Office | MiniTab     | IBM Maximo              | CATIA V5/V6/3DX   |
+
+<br/>
+
+## Activities
+* President of Cooking Club, an organization dedicated to teaching college students how to cook through creative and hands on methods
  
