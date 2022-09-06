@@ -15,7 +15,7 @@ Download Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
 
 <br/>
   
-Education
+Educationd
 =====
 * B.S. in Mechancial Engineering, LeTourneau University (May 2022)
 * 3.86/4.00 GPA
