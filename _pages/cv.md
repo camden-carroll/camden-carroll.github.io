@@ -12,7 +12,8 @@ redirect_from:
 
 Download Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
-  <br/>
+
+<br/>
   
 Education
 =====
