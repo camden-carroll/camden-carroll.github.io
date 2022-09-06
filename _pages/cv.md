@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-View and Download Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
+Download Full [Resume](https://camden-carroll.github.io/files/resume.pdf)
 =====
-  
+  <br/>
   
 Resume Highlights
 =====
@@ -26,18 +26,25 @@ Resume Highlights
 * Applied Aerodynamics 
 * Design of Expirements
 
-## Project Experience
-  * Team member on senior design project that launched a rocket with a drone inside designed to return home after being ejected.  [Senior Design Project](https://camden-carroll.github.io/portfolio/seniordesign)
-  * Individually designed and conducted an expirement to determine the effects of different factors on a 3D printed drone arm. [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
-
-## View Full [Portfolio](https://camden-carroll.github.io/portfolio)
-
-## Work Experience
-* Intern for Trinity River Authority
-   * In charge of plant organization, parts and tool inventory, and logging information on IBM Maximo
-* Intramural Coordinator
-   * Maintained fields and courts, managed games, handled conflict, and created new events
-
+Experience
+=====
+### Senior Design Project
+* Member in designing, prototyping, and building drone to be launched in a rocket and return home with payload
+* Completed part design with FEA analysis and managed 3D printing of drone parts
+* Demonstrated project to sponsors, answered questions, and secured funding
+* View [Senior Design Project](https://camden-carroll.github.io/portfolio/seniordesign)
+### Analysis of Experiments
+* Conducted experiment to determine treatment effects of 3D printed specimens
+* Researched relevant ASTM standards and used factorial experiment designs
+* Interpreted data with ANOVA methods and presented results to instructor
+* View [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
+### Treatment Plant Intern (Trinity River Authority, 2022)
+* Managed time to complete inventory organization and documentation through IBM Maximo
+* Communicated plans, weekly progress, and suggestions to manager and co-workers
+### Student Worker (LeTourneau University, 2019 – 2022)
+* Lead team in constructing and maintain fields and courts for each sport
+* Communicated rules and expectations to teams and delt with conflict during games
+### View Full [Portfolio](https://camden-carroll.github.io/portfolio)
 
 
  
