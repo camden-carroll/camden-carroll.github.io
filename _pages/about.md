@@ -13,6 +13,8 @@ For as along as I can remember, I have been passionate about engineering. The ab
 
 # View and Download [Resume](https://camden-carroll.github.io/files/resume.pdf)
 
+<br/>
+
 Projects Portfolio
 =====
 {% for post in site.portfolio %}
