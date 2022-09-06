@@ -21,17 +21,16 @@ Education
 * 3.86/4.00 GPA
 * summa cum laude
 
-<br/>
+<br/> 
 
-### Relevent Classes: 
-
-<br/>
-
+### Relevant Coursework
 |  |  |  |
 |:--------:             |:--------:              |:--------:       |
 | Applied Aerodynamics  | Senior Design I&II     | Machine Design  |
 | Compressable Flow     | Vibrations             | Fluid Mechanics |
 | Design of Experiments | Engineering Management | Heat Transfer   |
+
+<br/>
 
 Experience
 =====
