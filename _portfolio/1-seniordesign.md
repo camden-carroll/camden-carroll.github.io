@@ -16,7 +16,7 @@ Then we compiled the viablity into a chart and presented to team:
 <img src='/images/ConceptSelection.JPG'>
 
 The winning concept was a folding quadcopter and I was tasked with designing the main body to hold the battery and folding arms.
-In SolidWorks, I designed the lower unit while others designed the arms and upper unit components. While designing, I had to make sure wiring paths were cohesive and the battery remained accessible.
+In SolidWorks, I designed the lower unit making sure wiring paths were cohesive and the battery remained accessible.
 
 <img src='/images/LowerBody.JPG'>
 
@@ -25,7 +25,7 @@ In SolidWorks, I designed the lower unit while others designed the arms and uppe
 <img src='/images/PayloadFullRender.JPG'>
 <img src='/images/FullAssemblyMotionColorHD.gif'>
 
-Parts were then printed out and assebmeled. The electronics subteam added the brains, wiring, and motors. Testing began and the homing fearture worked, just not with the range we needed. 
+Parts were then printed out and assembled. The electronics subteam added the brains, wiring, and motors. Testing began and the homing fearture worked, just not with the range we needed. 
 
 Here is the drone being folded and placed inside the rocket on competition day:
 
