@@ -10,7 +10,7 @@ I researched mini golf putters to get an idea of angles, sizes, and the general 
 <br/><br/>
 <img src='/images/PutterHead.JPG'>
 <br/><br/>
-Once I had a putter head with the right shape, I needed to make it weigh significantly more since hollow PLA was to light to affect the ball. I could have just printed the head with 100% infill, but that was a little to long and expensive a process for me. So instead I took some sand from the volley ball courts and added it just before the printer started the top few layers, sealing it in. It wasn't as heavey as a metal putter, but it felt good and allowed me to actually aim the ball.
+Once I had a putter head with the right shape, I needed to make it weigh significantly more since hollow PLA was too light to affect the ball. I could have just printed the head with 100% infill, but that was a little too long and expensive a process for me. So instead I took some sand from the volley ball courts and added it just before the printer started the top few layers, sealing it in. It wasn't as heavey as a metal putter, but it felt good and allowed me to actually aim the ball.
 <br/><br/>
 <img src='/images/PutterHead1.jpg'>
 <br/><br/>
