@@ -34,7 +34,7 @@ Education
 Experience
 =====
 ### Senior Design Project
-* Member in designing, prototyping, and building drone to be launched in a rocket and return home with payload
+* Member in designing, prototyping, and building a drone to be launched in a rocket and return home with a payload
 * Completed part design with FEA analysis and managed 3D printing of drone parts
 * Demonstrated project to sponsors, answered questions, and secured funding
 * View [Senior Design Project](https://camden-carroll.github.io/portfolio/seniordesign)
@@ -67,7 +67,7 @@ Experience
 |:--------:        |:--------:   |:--------:               |:--------:         |
 | Welding          | SolidWorks  | GD&T Methods            | C++               |
 | Lathing          |  MATLAB     | Finite Element Analysis |JAVA               |
-| Microsoft Office | MiniTab     | IBM Maximo              | CATIA V5/V6/3DX   |
+| Microsoft Office | MiniTab     | IBM Maximo              | CATIA V5/V6   |
 
 <br/>
 
