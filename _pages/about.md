@@ -15,8 +15,9 @@ For as along as I can remember, I have been passionate about engineering. The ab
 
 <br/>
 
-Projects Portfolio
+Portfolio Projects
 =====
-{% for post in site.portfolio %}
+
+ {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
