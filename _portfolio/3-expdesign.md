@@ -15,12 +15,12 @@ collection: portfolio
    * 3 layers
    * 5 layers
 
-#### I then desinged each part on SolidWorks using relevent ASTM standards I could find; 5 in long, 0.5 in wide, and 0.25 in tall.
+#### I then designed each part on SolidWorks using the relevent ASTM standards I could find: 5 in long, 0.5 in wide, and 0.25 in tall.
 
 <img src='/images/ASTMDroneArmParts.JPG'>
 
-#### After designing and approval from instructor, the parts were printed. Due to time constraints 3 samples of each treatment were printed.
-#### Using the school's lab and 3-Point bend tester, each sample was placed under force at 1 N per second and broken.
+#### After designing and approval from instructor, the parts were printed. Due to time constraints, 3 samples of each treatment were printed.
+#### Using the school's lab and 3-Point bend tester, each sample was placed under force at 1 N-per-second and broken.
 
 <img src='/images/BendTester.jpg'>
  
