@@ -37,12 +37,12 @@ Experience
 * Member in designing, prototyping, and building a drone to be launched in a rocket and return home with a payload
 * Completed part design with FEA analysis and managed 3D printing of drone parts
 * Demonstrated project to sponsors, answered questions, and secured funding
-* View [Senior Design Project](https://camden-carroll.github.io/portfolio/seniordesign)
+* View [Senior Design Project](https://camden-carroll.github.io/portfolio/1-seniordesign)
 ### Analysis of Experiments
 * Conducted experiment to determine treatment effects of 3D printed specimens
 * Researched relevant ASTM standards and used factorial experiment designs
 * Interpreted data with ANOVA methods and presented results to instructor
-* View [Expirement Design Project](https://camden-carroll.github.io/portfolio/expdesign)
+* View [Expirement Design Project](https://camden-carroll.github.io/portfolio/3-expdesign)
 ### Treatment Plant Intern (Trinity River Authority, 2022)
 * Managed time to complete inventory organization and documentation through IBM Maximo
 * Communicated plans, weekly progress, and suggestions to manager and co-workers
