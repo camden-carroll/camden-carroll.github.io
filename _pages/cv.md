@@ -47,7 +47,7 @@ Experience
 * Managed time to complete inventory organization and documentation through IBM Maximo
 * Communicated plans, weekly progress, and suggestions to manager and co-workers
 ### Student Worker (LeTourneau University, 2019 – 2022)
-* Lead team in constructing and maintain fields and courts for each sport
+* Led team in constructing and maintain fields and courts for each sport
 * Communicated rules and expectations to teams and delt with conflict during games
 
 <br/>
