@@ -20,7 +20,7 @@ In SolidWorks, I designed the lower unit making sure wiring paths were cohesive 
 
 <img src='/images/LowerBody.JPG'>
 
- We then put all the parts in an assemnly to make sure it fit and worked as we wanted.
+ We then put all the parts in an assembly to make sure they fit and functioned properly with eachother.
 
 <img src='/images/PayloadFullRender.JPG'>
 <img src='/images/FullAssemblyMotionColorHD.gif'>
@@ -31,8 +31,8 @@ Here is the drone being folded and placed inside the rocket on competition day:
 
 <img src='/images/IntoRocket.jpg'>
 
-So, while the drone was successfully ejected from the rocket, the homing range did not kick in fast enought and the drone fell to the ground with only minimal damage to one arm:
+While the drone was successfully ejected from the rocket, the homing function did not kick in fast enought and the drone fell to the ground with only minimal damage to one arm:
 
 <img src='/images/OnGround.jpg'>
 
-We ended up placing forth out of almost 30 teams anyway, as most teams could not even get a launch or ejection to work.
+We ended up placing forth out of almost 20 teams anyway.
