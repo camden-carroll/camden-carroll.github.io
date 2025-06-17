@@ -5,6 +5,10 @@ collection: portfolio
 ---
 
 This project came about largely due to my frustration at the expense of miniature trolling motors, and having a basic kayak, I wanted a hands-free control system.
-<br>
-
+<br/>
 <img src='/images/TMFullConfig.PNG'>
+<br/>
+For now, I have decided on a 1:1 gear ratio, but may experiment with variations if the turning radius does not fit my needs.
+<br/>
+Full Exploded View
+<img src='/images/TrollingMotorExplodedView.PNG'>
